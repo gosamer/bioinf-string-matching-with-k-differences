@@ -1,0 +1,3 @@
+@author Alen Škvarić
+programming language: C
+program: String matching with K differences
