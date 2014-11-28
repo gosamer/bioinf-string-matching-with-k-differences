@@ -1,0 +1,3 @@
+@author Mauro Barešić
+programming language: Python 2.7.8
+program: String matching with K differences
