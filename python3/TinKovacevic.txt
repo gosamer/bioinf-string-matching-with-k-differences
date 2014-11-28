@@ -1,0 +1,3 @@
+@author Tin Kovačević
+programming language: Python 3.x
+program: String matching with K differences
